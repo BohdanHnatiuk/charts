@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  petclinic:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-09-02T22:37:39.284873238+03:00"
+    description: A Helm chart for Kubernetes - petclinic Example
+    digest: 9d779294cd8242c4413327500f6a210160c0ee3ca25b09f35c06697d6dd479cf
+    icon: https://previews.123rf.com/images/pchvector/pchvector1901/pchvector190100324/115137489-veterinary-pharmacy-symbol-line-icon-pet-clinic-pet-medical-pet-care-veterinary-concept-vector-illus.jpg
+    name: petclinic
+    type: application
+    urls:
+    - https://github.com/BohdanHnatiuk/charts/petclinic-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-02T22:37:39.284570834+03:00"
