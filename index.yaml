@@ -10,6 +10,6 @@ entries:
     name: petclinic
     type: application
     urls:
-    - https://github.com/BohdanHnatiuk/charts/blob/gh-pages/petclinic-0.1.0.tgz
+    - https://bohdanhnatiuk.github.io/charts/petclinic-0.1.0.tgz
     version: 0.1.0
 generated: "2021-09-04T00:07:55.682226804+03:00"
